@@ -1,0 +1,6 @@
+xpatch
+******
+
+xpatch is a patching utility for binary files. Currently it takes only ida DIF files, but there will be an own format too.
+
+
