@@ -6,6 +6,7 @@ namespace xpatch
 		private string infile {get; set; }
 		private string outfile {get; set; }
 		private PatchFileType filetype {get;set;}
+		private PatchContents patchContents {get; set; }
 		
 		public Patcher (PatchFileType patchFileType, string infile, string outfile)
 		{

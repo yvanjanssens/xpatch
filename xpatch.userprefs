@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="xpatch/Patcher.cs">
+    <Files>
+      <File FileName="xpatch/Main.cs" Line="40" Column="28" />
+      <File FileName="xpatch/Patcher.cs" Line="27" Column="2" />
+      <File FileName="xpatch/PatchFileType.cs" Line="8" Column="22" />
+      <File FileName="xpatch/PatchContents.cs" Line="57" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
