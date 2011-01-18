@@ -34,7 +34,12 @@ namespace xpatch
 			}
 			
 			if (p.DryRun()) {
-				p.Patch();	
+				try {
+					p.Patch();	
+				} catch (Exception e) {
+					Console.Write("error: ");
+					Console.WriteLine(e.Message);
+				}
 			} else {
 				Console.WriteLine("dry-run failed. Aborting patch...");	
 			}

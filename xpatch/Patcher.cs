@@ -16,6 +16,7 @@ namespace xpatch
 		
 		public bool DryRun() {
 			
+			return false;
 		}
 		
 		public void Patch() {

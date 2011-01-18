@@ -39,6 +39,8 @@
     <Compile Include="AssemblyInfo.cs" />
     <Compile Include="Patcher.cs" />
     <Compile Include="PatchFileType.cs" />
+    <Compile Include="PatchContents.cs" />
+    <Compile Include="PatchOffset.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
